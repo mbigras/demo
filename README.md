@@ -24,3 +24,39 @@ cd demo
     - `echo run this other task`
         - important point 5
         - important point 6
+
+## Procedure 2
+
+1. Do this task
+    
+    ```
+    echo \
+        hello world \
+        this is a \
+        long command
+    ```
+    
+    - note github does not insert a leading space
+    - important point 2
+    - important point 3
+
+1. Do this task
+
+        echo \
+            hello world \
+            this is a \
+            long command
+
+    - note github does insert a leading space
+
+1. Do this task
+
+    ```
+    echo \
+        hello world \
+        this is a \
+        long command
+    ```
+
+    - note github does not insert a leading space
+    - this is the better way to create the procedures.
